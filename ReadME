@@ -1,0 +1,11 @@
+=== Amazon Clone Homepage === 
+
+This project is a clone of Amazon's homepage, created using only HTML and CSS. It mimics the layout, styling, and key elements of Amazon’s interface to practice front-end development skills.
+
+## Features
+1. Responsive layout similar to Amazon's homepage.
+2. HTML and CSS-only design with no additional frameworks or JavaScript.
+3. Organized sections including navigation, product listings, and footer.
+
+## Getting Started
+Simply download or clone the repository and open index.html in your browser to view the homepage.
